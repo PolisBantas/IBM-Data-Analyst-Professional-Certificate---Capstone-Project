@@ -10,3 +10,5 @@ In general, the project consists in 5 parts: 1- Data Collection: The data will b
 Specific objectives: A) What are the top programming languages in demand? B) What are the top database skills in demand? C) What is the required level of education?
 
 Tools: • Python • Excel • SQL • Microsoft Word • JupyterLab • Github • Visual Studio Code • Microsoft PowerPoint
+
+Dashboard accessible at: https://dataplatform.cloud.ibm.com/dashboards/0169216a-3f08-4bf4-8218-9d9e312c1654/view/7901df090e8f1df06de2d4e407cd780f2b64225cbabb830a89827b4906632097a83f1091c82c49088811546bf5ec445ac1
